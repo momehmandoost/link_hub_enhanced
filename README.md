@@ -10,4 +10,4 @@ for starting project run the command below:
 
 you can see the result from:
 
-> https://monumental-taiyaki-b969ed.netlify.app/
+> https://linkhubbb.netlify.app/
